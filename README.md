@@ -1,2 +1,2 @@
 # Todo
-Frontend with Vue.js
+Java Spring Boot and Vue.js
